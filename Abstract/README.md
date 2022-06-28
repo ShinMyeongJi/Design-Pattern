@@ -24,7 +24,7 @@
 
 
 ### Class Diagram
-![diagram](https://github.com/ShinMyeongJi/Images/blob/master/designpattern/abstract_factory.PNG?raw=true)
 
+![image](https://user-images.githubusercontent.com/31172248/176183567-2eb0c0e3-e83e-411a-9f45-cf83af52800a.png)
 
 To-do. 이 패턴을 적용한 Iterator, Collection 찾아보기
