@@ -31,4 +31,4 @@
 ![structure](https://upload.wikimedia.org/wikipedia/commons/d/d7/ObjectAdapter.png)
 
 ### Class Diagram
-![diagram](https://github.com/ShinMyeongJi/Images/blob/master/designpattern/Adapter%20.PNG?raw=true)
+![image](https://user-images.githubusercontent.com/31172248/176183464-c5c06ebf-a738-4a06-a5b2-223acc15b773.png)
