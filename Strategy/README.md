@@ -9,4 +9,4 @@
 ![structure](https://www.programmergirl.com/wp-content/uploads/2019/08/StrategyPattern.png)
 
 ### Class Diagram
-![diagram](https://github.com/ShinMyeongJi/Images/blob/master/%EC%BA%A1%EC%B2%98.PNG?raw=true)
+![image](https://user-images.githubusercontent.com/31172248/176184031-464882fa-fbd3-40b8-9329-691e46f202e4.png)
