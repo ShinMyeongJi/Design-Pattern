@@ -23,4 +23,4 @@
 ![structure](http://www.dofactory.com/images/diagrams/net/factory.gif)
 
 ### Class Diagram
-![diagram](https://github.com/ShinMyeongJi/Images/blob/master/designpattern/factorymethod.PNG?raw=true)
+![image](https://user-images.githubusercontent.com/31172248/176183802-976f2c3c-d6c3-4f99-9142-46a0ae8e0320.png)
