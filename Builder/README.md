@@ -9,4 +9,4 @@
 ![structure](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Builder_UML_class_diagram.svg/700px-Builder_UML_class_diagram.svg.png)
 
 ### Class Diagram
-![diagram](https://github.com/ShinMyeongJi/Images/blob/master/designpattern/builder.PNG?raw=true)
+![image](https://user-images.githubusercontent.com/31172248/176183715-719eae7d-6ba8-4a7d-bbd9-176e00ccd860.png)
