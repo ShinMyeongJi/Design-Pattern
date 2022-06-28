@@ -30,4 +30,4 @@
 ![structure](https://gmlwjd9405.github.io/images/design-pattern-template-method/template-method-pattern.png)
 
 ### Class Diagram
-![diagram](https://github.com/ShinMyeongJi/Images/blob/master/designpattern/template.PNG?raw=true)
+![image](https://user-images.githubusercontent.com/31172248/176183920-56c68bb3-62c5-495d-9ef8-171b69603943.png)
