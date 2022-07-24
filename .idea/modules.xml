@@ -9,7 +9,6 @@
       <module fileurl="file://$PROJECT_DIR$/DesignPatternTest/DesignPatternTest.iml" filepath="$PROJECT_DIR$/DesignPatternTest/DesignPatternTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObserverPattern2/ObserverPattern2.iml" filepath="$PROJECT_DIR$/ObserverPattern2/ObserverPattern2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ObserverPatternTest/ObserverPatternTest.iml" filepath="$PROJECT_DIR$/ObserverPatternTest/ObserverPatternTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Strategy.iml" />
